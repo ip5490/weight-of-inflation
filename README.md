@@ -10,3 +10,6 @@ The following data sources were used in our paper:
 - Eurostat Distribution of income by quantiles: https://ec.europa.eu/eurostat/databrowser/view/ilc_di01/default/table?lang=en&category=livcon.ilc.ilc_ip.ilc_di
 - Eurostat Aggregate propensity to consume by income quintile: https://ec.europa.eu/eurostat/databrowser/view/icw_sr_10/default/table?lang=en&category=icw.icw_sr
 - Socio Economic Accounts of the World Input Output Database data on sector-level price developments: https://www.rug.nl/ggdc/valuechain/wiod/wiod-2016-release
+
+References
+Cai, M., & Vandyck, T. (2020). Bridging between economy-wide activity and household-level consumption data: Matrices for European countries. Data in Brief, 30, 105395.
